@@ -1,4 +1,4 @@
-Movie Streaming Script
+Movie Streaming Script (movie-api)
 ======================
 
 This script allows users to stream movies and TV series from a web browser using IMDB or TMDB ID's. The script is written in PHP and uses The Open Movie Database (OMDb) API to fetch movie and TV series details and streams the movie/series using the VideoJS library.
